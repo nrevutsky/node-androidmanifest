@@ -13,8 +13,8 @@
   "author": "Keyvan Fatehi <keyvanfatehi@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^0.19.0",
-    "lodash": "^3.10.1",
+    "cheerio": "^0.22.0",
+    "lodash": "^4.17.15",
     "pretty-data2": "^0.40.1"
   }
 }
